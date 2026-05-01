@@ -11,6 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
+<!--        добавил комментарий -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>21</maven.compiler.target>
         <maven.compiler.source>21</maven.compiler.source>
@@ -29,6 +30,12 @@
         <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
     </properties>
 
+    <!--        добавил комментарий --><!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -87,6 +94,13 @@
 
     </dependencies>
 
+    
+    
+    <!--        добавил комментарий --><!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
+    <!--        добавил комментарий -->
     <build>
         <plugins>
             <plugin>
